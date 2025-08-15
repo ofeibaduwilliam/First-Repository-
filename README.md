@@ -1,1 +1,1 @@
-In this repository, there are assignments that I have successfully carried out. They are self explanatory and the reason for what is there is available as comments in the code or as a commit message. You'll be fine.
+In this repository, there are assignments that I have successfully carried out. They are self explanatory and the reason for what is there is available either as comments in the code or as a commit message. You'll be fine.
